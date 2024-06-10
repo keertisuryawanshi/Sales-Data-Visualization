@@ -1,6 +1,5 @@
 # Sales-Data-Visualization
 
-# Insight-Driven Sales Reporting and Analysis
 
 ## Project Overview
 This project involved developing an annual sales report to understand customer behavior and identify strategies for increasing sales in the upcoming year.
