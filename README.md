@@ -1,6 +1,5 @@
 # Sales-Data-Visualization
 
-
 ## Project Overview
 This project involved developing an annual sales report to understand customer behavior and identify strategies for increasing sales in the upcoming year.
 
@@ -36,3 +35,13 @@ This project involved developing an annual sales report to understand customer b
 ## Future Work
 - Explore additional customer segmentation and targeted marketing strategies.
 - Incorporate more data sources for a comprehensive analysis.
+
+## Files Description
+
+**Raw Data File (`Store Data Analysis_DataSet.xlsx`):**
+- Contains the original dataset with detailed sales information for 2022.
+
+**Processed Data and Dashboard File (`Store Data Analysis_final.xlsx`):**
+- **Preprocessed Data**: Cleaned and organized data ready for analysis.
+- **Pivot Tables**: Summarized data using Pivot Tables to extract key insights.
+- **Dashboard**: Interactive dashboard for sales managers to monitor performance, understand customer demographics, and make data-driven decisions.
